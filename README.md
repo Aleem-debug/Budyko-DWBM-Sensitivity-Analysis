@@ -1,7 +1,7 @@
 ## Budyko-Based Dynamic Water Balance Model: Sensitivity Analysis
 ## Overview
 This repository contains MATLAB code for Monte Carlo sensitivity analysis of a Budyko-based Dynamic Water Balance Model (DWBM) developed for hydrological modelling of landslide-prone pyroclastic catchments in Campania, southern Italy.
-The analysis investigates the sensitivity of simulated hydrological responses to variations in model parameters.
+The repository includes codes for parameters sampling (by Saltelli), model simulator of DWBM and for first-order, total-order, and second-order sensitivity indices for hydrological model parameters.
 ## Methodology
 The sensitivity analysis uses Monte Carlo sampling to explore the model parameter space and evaluate model performance using the Normalized Nash–Sutcliffe Efficiency (NNSE).
 The model parameters and their tested ranges are documented in the MATLAB scripts.
