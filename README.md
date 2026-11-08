@@ -15,5 +15,5 @@ The model parameters and their tested ranges are documented in the Python script
 ## Reproducibility
 Users should review the parameter ranges, initial conditions, input datasets, and model settings before reproducing the analysis.
 ## Citation
-If you use this code, please cite this repository and the associated research publication when available.
+If you use this code, please cite this repository and the associated research publication available at https://doi.org/10.3390/w18212640
 
